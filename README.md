@@ -1,7 +1,7 @@
 
 # Analysis Of Meteorological Data
 
-This is a basic project for a virtual internship which I was a part, and I performed the following tasks:
+This is a basic project for a virtual internship which I was a part of, and I performed the following tasks:
 
 - Data Cleaning and Preparation
 
