@@ -19,4 +19,4 @@ Over a ten-year period, this monthly analysis must be completed for all 12 month
 In the attached Jupyter Notebook file, I have completed a lot of different analysis to prove
 this hypothesis, and I will be attaching a blog referring to my resultant analysis of this problem in a future commit.
 
-
+For more information, give a read to my blog based on this project: https://medium.com/@abdullahw72/performing-analysis-of-meteorological-data-a5e993061fc7
